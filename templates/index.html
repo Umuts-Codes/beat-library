@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beat Library</title>
+
+
+   
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+   
+    <link rel="icon" type="image/png" sizes="36x36" href="static/images/music-icon.png">
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@400;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+
+
+
+
+
+<body>
+
+ 
+
+
+<header class="header">
+  
+    <div class="logo">Beat Library 🎧</div>
+
+    
+    <nav class="nav-bar">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/favorites">Favorites</a></li>
+        </ul>
+    </nav>
+
+
+
+
+
+
+<div class="search-box">
+    <input type="text" id="searchInput" placeholder="Type beat name or genre">
+    <button id="searchBtn">Search</button>
+</div>
+
+
+</header>
+
+
+  
+
+
+
+
+
+
+
+   
+    <section class="filters">
+        
+       <div class="filter-group">
+         <label>Beat</label>
+         <div id="beatName" class="beat-display" data-placeholder="Now Playing..." tabindex="0"></div>
+       </div>
+
+
+
+
+        <div class="filter-group">
+            <label for="genre">Genre</label>
+            <select id="genre">
+                <option value="">All</option>
+                <option value="trap">Trap</option>
+                <option value="drill">Drill</option>
+                <option value="lofi">Lofi</option>
+                <option value="hip-hop">Hip-Hop</option>
+            </select>
+        </div>
+
+      
+
+
+        <div class="filter-group">
+            <label for="mood">Mood</label>
+            <select id="mood">
+                <option value="">All</option>
+                <option value="dark">Dark</option>
+                <option value="chill">Chill</option>
+                <option value="sad">Sad</option>
+                <option value="happy">Happy</option>
+            </select>
+        </div>
+
+      
+
+
+
+
+
+        <div class="filter-group">
+            <label>BPM</label>
+            <input type="number" id="bpmMin" placeholder="Max">
+        </div>
+    </section>
+
+  
+
+
+
+
+   
+
+
+
+<section class="beat-list" id="beatList">
+   <!-- jQuery will append the beat cards here -->
+</section>
+
+
+
+
+
+
+
+<div id="beatTemplate" class="beat-card template-hidden">
+    <img class="beat-cover" src="/static/images/beat-thumb.png" alt="Beat cover">
+    <h3 class="beat-name">Beat Name</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+<footer class="audio-player">
+    <div class="player-controls">
+        <button id="prevBtn">‹‹</button>
+        <button id="playPauseBtn">▶</button>
+        <button id="nextBtn">››</button>
+        <button id="replayBtn">⟳</button>
+        <input type="range" id="volumeControl" min="0" max="1" step="0.01" value="1">
+    </div>
+    <audio id="audioPlayer">
+        <source id="audioSource" src="" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</footer>
+
+
+
+
+
+
+
+
+<div id="no-results">
+    <p>NO RESULTS FOUND</p>
+    <div class="emoji">🎶🎶🎶</div>
+</div>
+
+
+
+
+
+
+<script src="{{ url_for('static', filename='js/jquery.main.js') }}" defer></script>
+
+
+
+
+</body>
+</html>
