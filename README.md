@@ -18,6 +18,26 @@ All of beats upload in the home page afterwise when any of beat is play jquery-j
 
 
 
+
+
+## BEAT INTRODUCTION
+
+If any beat type is entered into the search cursor the beats belonging to that type are displayed on the screen in a list below. And when any beat is clicked it shows the beat's name, type, mode, and BPM data.
+
+<br>
+
+![Beat Library Screenshot](screenshots/genre-introduction.png)
+
+<br><br>
+
+
+
+
+
+
+
+
+
 # NO FOUND RESULTS
 
 If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
