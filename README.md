@@ -22,7 +22,7 @@ All of beats upload in the home page afterwise when any of beat is play jquery-j
 
 ## BEAT INTRODUCTION
 
-If any beat type is entered into the search cursor the beats belonging to that type are displayed on the screen in a list below. And when any beat is clicked it shows the beat's name, type, mode, and BPM data.
+If any beat type is entered into the search cursor the beats belonging to that type are displayed on the screen in a list below. And when any beat is clicked it shows the beat's name, type, mood, and BPM data.
 
 <br>
 
