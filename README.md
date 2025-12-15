@@ -1,4 +1,4 @@
-# BEAT LIBRARY
+# BEAT LIBRARY HOME PAGE
 
 The first view of the Beat Library website appears here. And after that when clicking any of worflows jquery-javascript frontend with python backend show up functions work comes.
 
