@@ -4,7 +4,7 @@ The first view of the Beat Library website appears here. And after that when cli
 
 Beat Library work is home page is admin panel all of beats for jquery-javascript with adding and removing functions.
 
-All of beats upload in the home page afterwise when any of beat is play jquery-javascript with backend python among synchronized workflows shot out it. Beat's name, Genre, Mood and BPM data transfering.
+All of beats upload in the home page afterwise when any of beat is play jquery-javascript frontend with backend python among synchronized workflows shot out it. Beat's name, Genre, Mood and BPM data transfering.
 
 
 <br>
