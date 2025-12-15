@@ -9,8 +9,9 @@ All of beats upload in the home page afterwise when any of beat is play jquery-j
 
 <br>
 
-
 ![Beat Library Screenshot](screenshots/main-description.png)
+![Beat Library Screenshot](screenshots/beat-playing.png)
+
 
 <br><br>
 
