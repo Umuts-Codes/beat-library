@@ -57,6 +57,28 @@ If there are multiple beats with the same BPM number the screen will display the
 
 
 
+
+
+# REPLAY BUTTON
+
+
+When any beat is clicked if desired the same beat can be listened to continuously using the replay button and after the replay button is clicked it gains a dark color appearance on the same tone.
+
+<br>
+
+![Beat Library Screenshot](screenshots/replay-button.png)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 # NO FOUND RESULTS
 
 
