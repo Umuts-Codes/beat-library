@@ -74,6 +74,21 @@ When any beat is clicked if desired the same beat can be listened to continuousl
 
 
 
+## SEARCH SECTION
+
+
+Beat arama yerine herhangi bir beat adını tam olarak yazılırsa eğer o beat' i tek olarak ekrana kullanıcıya getirir ve aynı anda da beat' in adı, genre, mood ve bpm verileri de olur.
+
+<br>
+
+![Beat Library Screenshot](screenshots/search-section.png)
+
+
+<br><br>
+
+
+
+
 
 
 
