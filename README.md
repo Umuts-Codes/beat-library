@@ -7,5 +7,6 @@ Beat Library work, home page is admin panel, all of beats for jQuery-JavaScript 
 
 All of beats upload in the home page. Afterwise, when any of beat is played, jQuery-JavaScript with backend Python among synchronized workflows shot out it. Beat's name, Genre, Mood and BPM data transferring.
 
+<br><br>
 
 ![Beat Library Screenshot](screenshots/main-description.png)
