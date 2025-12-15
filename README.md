@@ -77,7 +77,7 @@ When any beat is clicked if desired the same beat can be listened to continuousl
 ## SEARCH SECTION
 
 
-Beat arama yerine herhangi bir beat adını tam olarak yazılırsa eğer o beat' i tek olarak ekrana kullanıcıya getirir ve aynı anda da beat' in adı, genre, mood ve bpm verileri de olur.
+If any beat name is written exactly into the beat search field, it brings that beat to the screen as a single result for the user, and at the same time, the beat's name, genre, mood, and BPM data are also shown.
 
 <br>
 
