@@ -40,7 +40,7 @@ If any beat type is entered into the search cursor the beats belonging to that t
 ## BEAT BPM
 
 
-If there are multiple beats with the same BPM number the screen will display them and after clicking on a beat it will show its name, type, and mode.
+If there are multiple beats with the same BPM number the screen will display them and after clicking on a beat it will show its name, genre, mode and bpm.
 
 <br>
 
