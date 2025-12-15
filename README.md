@@ -37,14 +37,17 @@ If any beat type is entered into the search cursor the beats belonging to that t
 
 
 
+## BEAT BPM
 
-# NO FOUND RESULTS
 
-If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
+If there are multiple beats with the same BPM number the screen will display them and after clicking on a beat it will show its name, type, and mode.
 
 <br>
 
-![Beat Library Screenshot](screenshots/no-results.png)
+![Beat Library Screenshot](screenshots/bpm.png)
+
+![Beat Library Screenshot](screenshots/bpm-2.png)
+
 
 <br><br>
 
@@ -53,3 +56,17 @@ If a beat name or genre that does not exist on the platform, meaning is not avai
 
 
 
+
+# NO FOUND RESULTS
+
+
+If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
+
+
+<br>
+
+
+![Beat Library Screenshot](screenshots/no-results.png)
+
+
+<br><br>
