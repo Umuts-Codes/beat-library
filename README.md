@@ -17,3 +17,14 @@ All of beats upload in the home page afterwise when any of beat is play jquery-j
 
 
 
+
+
+# NO FOUND RESULTS
+
+If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
+
+<br>
+
+![Beat Library Screenshot](screenshots/no-results.png)
+
+<br><br>
