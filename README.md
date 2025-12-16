@@ -197,3 +197,29 @@ If the beat name you want to remove is entered incorrectly it gives a "this beat
 
 
 
+
+
+
+
+## BACKEND FUNCTIONALLY
+
+
+Python backend tarafında ilk önce beatleri tanıtıyoruz favorites sayfasında başka kullanıcılar kendi listesine beatleri eklemesi için.
+
+
+![Beat Library Screenshot](screenshots/database.png)
+
+![Beat Library Screenshot](screenshots/database-1.png)
+
+
+
+
+
+API endpoints kısmında ise admin yani yönetici tarafından izin verilerek beat eklentisi yapılıyor ki başka kullanıcılar özgün bir şekilde kendi favorite listesine ekleme yapabilmesi için. Eğer bu kısma eklenmez ise başka bir
+
+kullanıcı kendi hesabına ve listesine ekleme işlemi yapamıyor.
+
+
+
+
+![Beat Library Screenshot](screenshots/database-2.png)
