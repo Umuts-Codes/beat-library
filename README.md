@@ -106,3 +106,28 @@ If a beat name or genre that does not exist on the platform, meaning is not avai
 
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+# BEAT LIBRARY FAVORITES PAGE
+
+The Favorites page is under the control of other users, and the user can add any desired beat to the favorites list by typing the beat name and then clicking the add button.
+
+In the Selection section, all added beats accumulate there, and beats can be added to the favorites list in an unlimited way. In the Remove beats section, the beat name is written exactly and then removed from the list.
+
+As seen, this page is completely outside the administrator control and allows usage under the control of another user. Importance is given to individual usage.
+
+
+<br>
+
+![Beat Library Screenshot](screenshots/main-favorites.png)
+
+<br><br>
