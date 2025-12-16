@@ -115,8 +115,6 @@ If a beat name or genre that does not exist on the platform, meaning is not avai
 
 
 
-
-
 # BEAT LIBRARY FAVORITES PAGE
 
 The Favorites page is under the control of other users, and the user can add any desired beat to the favorites list by typing the beat name and then clicking the add button.
@@ -129,5 +127,26 @@ As seen, this page is completely outside the administrator control and allows us
 <br>
 
 ![Beat Library Screenshot](screenshots/main-favorites.png)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+# REMOVE BEATS
+
+In the Remove beats section after typing any beat name exactly and clicking the submit button any user can remove the desired beat from their own page.
+
+<br>
+
+![Beat Library Screenshot](screenshots/remove-beats.png)
+
 
 <br><br>
