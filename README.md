@@ -150,3 +150,40 @@ In the Remove beats section after typing any beat name exactly and clicking the 
 
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ALERTS
+
+If no beat name is entered and the add button is clicked, it gives a "please type beat name" warning.
+
+If the submit button is clicked to remove any beat without entering a beat name, it gives a "please enter a beat name" warning.
+
+If the same beat name is entered again unintentionally, it gives a "this beat is already added" warning.
+
+If a beat name that does not belong to the platform is entered to be added, it gives a "failed to add beat to favorites" warning.
+
+If the beat name you want to remove is entered incorrectly, it gives a "this beat is not in your favorites" warning.
+
+
+<br>
+
+
+![Beat Library Screenshot](screenshots/type-name.png)
+
+![Beat Library Screenshot](screenshots/type-beat-name.png)
+
+![Beat Library Screenshot](screenshots/already-added.png)
+
+
+<br><br>
