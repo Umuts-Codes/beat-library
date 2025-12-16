@@ -93,7 +93,7 @@ If any beat name is written exactly into the beat search field, it brings that b
 
 
 
-## NO FOUND RESULTS
+## NO RESULTS FOUND
 
 
 If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
