@@ -77,7 +77,7 @@ When any beat is clicked if desired the same beat can be listened to continuousl
 ## SEARCH SECTION
 
 
-If any beat name is written exactly into the beat search field, it brings that beat to the screen as a single result for the user, and at the same time, the beat's name, genre, mood, and BPM data are also shown.
+If any beat name is written exactly into the beat search field it brings that beat to the screen as a single result for the user and at the same time the beat's name, genre, mood, and BPM data are also shown.
 
 <br>
 
@@ -96,7 +96,7 @@ If any beat name is written exactly into the beat search field, it brings that b
 ## NO RESULTS FOUND
 
 
-If a beat name or genre that does not exist on the platform, meaning is not available on the website, is entered, a warning is given. And the user is reminded that it is a wrong entry.
+If a beat name or genre that does not exist on the platform meaning is not available on the website is entered a warning is given. And the user is reminded that it is a wrong entry.
 
 
 <br>
