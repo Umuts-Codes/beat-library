@@ -201,7 +201,7 @@ If the beat name you want to remove is entered incorrectly it gives a "this beat
 
 
 
-## BACKEND FUNCTIONALLY
+## BACKEND FUNCTIONALITY
 
 
 On the Python backend side first the beats are introduced so that other users can add the beats to their own lists on the favorites page.
