@@ -117,9 +117,9 @@ If a beat name or genre that does not exist on the platform, meaning is not avai
 
 # BEAT LIBRARY FAVORITES PAGE
 
-The Favorites page is under the control of other users, and the user can add any desired beat to the favorites list by typing the beat name and then clicking the add button.
+The Favorites page is under the control of other users and the user can add any desired beat to the favorites list by typing the beat name and then clicking the add button.
 
-In the Selection section, all added beats accumulate there, and beats can be added to the favorites list in an unlimited way. In the Remove beats section, the beat name is written exactly and then removed from the list.
+In the Selection section all added beats accumulate there and beats can be added to the favorites list in an unlimited way. In the Remove beats section the beat name is written exactly and then removed from the list.
 
 As seen, this page is completely outside the administrator control and allows usage under the control of another user. Importance is given to individual usage.
 
@@ -161,19 +161,17 @@ In the Remove beats section after typing any beat name exactly and clicking the 
 
 
 
-
-
 ## ALERTS
 
-If no beat name is entered and the add button is clicked, it gives a "please type beat name" warning.
+If no beat name is entered and the add button is clicked it gives a "please type beat name" warning.
 
-If the submit button is clicked to remove any beat without entering a beat name, it gives a "please enter a beat name" warning.
+If the submit button is clicked to remove any beat without entering a beat name it gives a "please enter a beat name" warning.
 
-If the same beat name is entered again unintentionally, it gives a "this beat is already added" warning.
+If the same beat name is entered again unintentionally it gives a "this beat is already added" warning.
 
-If a beat name that does not belong to the platform is entered to be added, it gives a "failed to add beat to favorites" warning.
+If a beat name that does not belong to the platform is entered to be added it gives a "failed to add beat to favorites" warning.
 
-If the beat name you want to remove is entered incorrectly, it gives a "this beat is not in your favorites" warning.
+If the beat name you want to remove is entered incorrectly it gives a "this beat is not in your favorites" warning.
 
 
 <br>
@@ -193,3 +191,9 @@ If the beat name you want to remove is entered incorrectly, it gives a "this bea
 
 
 <br><br>
+
+
+
+
+
+
