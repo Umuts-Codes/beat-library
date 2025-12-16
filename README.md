@@ -204,7 +204,7 @@ If the beat name you want to remove is entered incorrectly it gives a "this beat
 ## BACKEND FUNCTIONALLY
 
 
-Python backend tarafında ilk önce beatleri tanıtıyoruz favorites sayfasında başka kullanıcılar kendi listesine beatleri eklemesi için.
+On the Python backend side first the beats are introduced so that other users can add the beats to their own lists on the favorites page.
 
 
 ![Beat Library Screenshot](screenshots/database.png)
@@ -215,10 +215,8 @@ Python backend tarafında ilk önce beatleri tanıtıyoruz favorites sayfasında
 <br><br>
 
 
-API endpoints kısmında ise admin yani yönetici tarafından izin verilerek beat eklentisi yapılıyor ki başka kullanıcılar özgün bir şekilde kendi favorite listesine ekleme yapabilmesi için. Eğer bu kısma eklenmez ise başka bir
 
-kullanıcı kendi hesabına ve listesine ekleme işlemi yapamıyor.
-
+In the API endpoints section beat additions are made with permission given by the admin (administrator) so that other users can add beats to their own favorites lists in a unique way. If a beat is not added to this section another user cannot add it to their own account and list.
 
 
 
