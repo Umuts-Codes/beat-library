@@ -186,4 +186,10 @@ If the beat name you want to remove is entered incorrectly, it gives a "this bea
 ![Beat Library Screenshot](screenshots/already-added.png)
 
 
+![Beat Library Screenshot](screenshots/wrong-remove.png)
+
+![Beat Library Screenshot](screenshots/wrong-add.png)
+
+
+
 <br><br>
