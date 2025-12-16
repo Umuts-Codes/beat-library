@@ -140,7 +140,7 @@ As seen, this page is completely outside the administrator control and allows us
 
 
 
-# REMOVE BEATS
+## REMOVE BEATS
 
 In the Remove beats section after typing any beat name exactly and clicking the submit button any user can remove the desired beat from their own page.
 
