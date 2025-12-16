@@ -212,7 +212,7 @@ Python backend tarafında ilk önce beatleri tanıtıyoruz favorites sayfasında
 ![Beat Library Screenshot](screenshots/database-1.png)
 
 
-
+<br><br>
 
 
 API endpoints kısmında ise admin yani yönetici tarafından izin verilerek beat eklentisi yapılıyor ki başka kullanıcılar özgün bir şekilde kendi favorite listesine ekleme yapabilmesi için. Eğer bu kısma eklenmez ise başka bir
